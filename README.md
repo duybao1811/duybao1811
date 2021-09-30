@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Duy Bao
 
 
-About me:
+### About me:
 
 - 🌱 I’m currently learning Software Engineering at University of Information Technology
 - 😄 I like learning about computer and research new teachology.
