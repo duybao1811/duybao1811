@@ -31,7 +31,7 @@
 
 <img align="left" alt="javascript" width="30px" src="https://img.favpng.com/2/12/22/javascript-icon-png-favpng-ruDBDhxzVxWHgXXtH2Hi1XzJf.jpg" />
 
-<img align="left" alt="reactjs" width="30px" src="https://codelearn.io/Upload/Blog/react-js-co-ban-phan-1-63738082145.3856.jpg" />
+<img align="left" alt="reactjs" width="30px" src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" />
 
 <img align="left" alt="php" width="30px" src="https://upload.wikimedia.org/wikipedia/vi/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" />
 
