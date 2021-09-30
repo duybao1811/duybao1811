@@ -16,6 +16,8 @@
 
 [<img align="left" alt="facebook" width="22px" src="https://www.facebook.com/images/fb_icon_325x325.png" />][facebook]
 
+[<img align="left" alt="instagram" width="22px" src="https://www.pxpng.com/public/uploads/preview/-11608566304fguhnkxstk.png" />][instagram]
+
 <br/>
 
 ---
@@ -54,4 +56,5 @@
 
 [linkedin]: https://www.linkedin.com/in/duy-b%E1%BA%A3o-9211a8216/
 [facebook]: https://www.facebook.com/profile.php?id=100022065936430
+[instagram]: https://www.instagram.com/duybao0811/
 
