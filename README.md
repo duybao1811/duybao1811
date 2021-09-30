@@ -19,7 +19,7 @@
 <p>
 <img align="left" alt="c++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/150px-ISO_C%2B%2B_Logo.svg.png" />
 
-<img align="left" alt="c#" width="30px" src="https://cdn.blob.lionpham.com/uploads/2016/08/c-Sharp.png" />
+<img align="left" alt="c#" width="30px" src="https://e7.pngegg.com/pngimages/340/226/png-clipart-purple-and-white-logo-c-computer-programming-software-development-programmer-marklogic-coder-miscellaneous-purple.png" />
 
 <img align="left" alt="html" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/1200px-HTML5_logo_resized.svg.png" />
 
