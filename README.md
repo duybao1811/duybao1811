@@ -16,6 +16,7 @@
 <br />
 
 ### Languages and Tools:
+
 <img align="left" alt="c++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/150px-ISO_C%2B%2B_Logo.svg.png" />
 
 <img align="left" alt="c#" width="30px" src="https://cdn.blob.lionpham.com/uploads/2016/08/c-Sharp.png" />
@@ -35,7 +36,6 @@
 <img align="left" alt="laravel" width="30px" src="https://cms-assets.tutsplus.com/uploads/users/769/posts/25334/preview_image/get-started-with-laravel-6-400x277.png" />
 
 <img align="left" alt="mysql" width="30px" src="https://techvccloud.mediacdn.vn/2020/9/17/mysql-1-1600340047538868003500-crop-160034079526453914971.png" />
-
 
 <br />
 
