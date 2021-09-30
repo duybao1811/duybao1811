@@ -10,6 +10,7 @@
 - 📫 How to reach me duybao18112000@gmail.com
 
 <br/>
+
 ---
 
 ### Connect with me:
@@ -18,6 +19,7 @@
 [<img align="left" alt="facebook" width="22px" src="https://www.facebook.com/images/fb_icon_325x325.png" />][facebook]
 
 <br/>
+
 ---
 
 ### Languages and Tools:
