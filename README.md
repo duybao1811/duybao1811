@@ -35,7 +35,7 @@
 
 <img align="left" alt="php" width="30px" src="https://upload.wikimedia.org/wikipedia/vi/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" />
 
-<img align="left" alt="laravel" width="30px" src="https://cms-assets.tutsplus.com/uploads/users/769/posts/25334/preview_image/get-started-with-laravel-6-400x277.png" />
+<img align="left" alt="laravel" width="30px" src="https://image.pngaaa.com/634/3353634-middle.png" />
 </p>
 
 <br />
