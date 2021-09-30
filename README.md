@@ -12,5 +12,5 @@
 
 ### Languages and Tools:
 
-<span background-color:"red">abc</span>
+
 [linkedin]: https://www.linkedin.com/in/duy-b%E1%BA%A3o-9211a8216/
