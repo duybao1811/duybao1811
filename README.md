@@ -23,7 +23,8 @@
   <img src="https://cms-assets.tutsplus.com/uploads/users/769/posts/25334/preview_image/get-started-with-laravel-6-400x277.png" width="50" title="laravel">
    <img src="https://techvccloud.mediacdn.vn/2020/9/17/mysql-1-1600340047538868003500-crop-160034079526453914971.png" width="50" title="mysql">
 </p>
-
+![](https://techvccloud.mediacdn.vn/2020/9/17/mysql-1-1600340047538868003500-crop-160034079526453914971.png) (&lt;img /&gt;)
+![](https://techvccloud.mediacdn.vn/2020/9/17/mysql-1-1600340047538868003500-crop-160034079526453914971.png) (&lt;img /&gt;)
 * Front-end: HTML,CSS,Bootstrap,SASS,Javascript,Reactjs
 * Back-end: PHP, Laravel,Nodejs
 * Database: SqlServer, MySql, Postgresql,MongoDB
