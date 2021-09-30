@@ -7,7 +7,6 @@
 - 💬 Ask me about react, javascript and php
 - :relaxed: I love watching movie in free time
 - 📫 How to reach me duybao18112000@gmail.com
-
 <br/>
 
 ---
