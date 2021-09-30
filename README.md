@@ -1,9 +1,5 @@
 ### Hi there 👋, I'm Duy Bao
 
-<br/>
-
----
-
 ### :fire: About me:
 
 - 🌱 I’m currently learning Software Engineering at University of Information Technology
