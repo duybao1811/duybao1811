@@ -11,6 +11,7 @@
 ### Connect with me:
 [<img align="left" alt="linkedin" width="22px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" />][linkedin]
 
+[<img align="left" alt="facebook" width="22px" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAbFBMVEUbd/L///8AcPGuyfmlxfkAbvGjw/m/1fvd5vzD1foKc/J3qPYAbPEAb/EAafEVdfKUuPi40PpalPQbevKMs/c7hPNJjfRPkfTJ2/vn8P75/P/v9v6Dq/ZbmPUzhfPp8/4qfvNrofaNtffh6f3jTx6zAAACLUlEQVR4nO3bXVOCQBiGYVxBaUWW8ptMLf//f+zrpGQhxrWYZ7uvYw72nskXeJmSBAAAAAAAAAAAAAAAAAAAAAAAAPgjzlnnEjf0MX6HM5k9rdab9eqUmCIz5q01plRTrqrtrh59eNzl07TaPx1sWZihT3Yb80W1G3kdJzEkmsXEn/fuLhv6eOHKfd0eGEGhTbYdfREU2sOxM1C+0K67++QLfw4UL3Snx8gLy/zHQO3CecdtMIpCd+gRKF1YdN8I9Qvtpk+gcmE2jbzQ2V6BwoV22a9wK1uYtc2Z+n45++LJDn3SK7mk5XGmcpmxXw190mu13Azrg+wf5SX77C18iGFn8clUvsBxMfS5bsd4n0lPEa0PzdgTmEfzI0xaCu/nQx/rhryFaTxzhsIYUKiPQn0U6qNQH4X6KBRjTUPpK5yUzQsldm12P25IfZ8O87R54UwhMbvz1PT1IlHY7xuM34PCciqksF4Mffo+Qgp3EhvUkEKN9VtI4VJh0AQVbmIv1Bg0IYVniZ9hSKHGoAkp1Bg0IYUagyakUORz2/WFZ4knmpBCkUETUCgyaAIKJV6dkoBCkSeagHd8jVenN3aWThq8e5rvl6QSO5oP1+7aZAJ9ItuXelCoj0J9FOqjUB+F+ijUR6E+CvVRqI9CfRTqo1Afhfoo1EehPgr1UaiPQn0U6qNQH4X6KNT3Dwqrc37pLPEfsb2ZoimqQAAAAAAAAAAAAAAAAAAAAAAAEJNX1Igf8YfBkrwAAAAASUVORK5CYII=" />][facebook]
 <br />
 
 ### Languages and Tools:
@@ -33,3 +34,4 @@
 * Others: Firebase 
 
 [linkedin]: https://www.linkedin.com/in/duy-b%E1%BA%A3o-9211a8216/
+[facebook]: https://www.facebook.com/profile.php?id=100022065936430
