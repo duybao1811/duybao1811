@@ -13,7 +13,7 @@
 ### Languages and Tools:
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/150px-ISO_C%2B%2B_Logo.svg.png" width="30" title="c++">
- <img src="https://thichchiase.com/wp-content/uploads/2020/04/fa9d4f7cf28b6f009570751504b5fbe1-1200x675.png" width="30" title="c#">
+ <img src="https://cdn.blob.lionpham.com/uploads/2016/08/c-Sharp.png" width="30" title="c#">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/150px-ISO_C%2B%2B_Logo.svg.png" width="30" title="c++">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/150px-ISO_C%2B%2B_Logo.svg.png" width="30" title="c++">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/150px-ISO_C%2B%2B_Logo.svg.png" width="30" title="c++">
