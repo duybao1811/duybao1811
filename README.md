@@ -8,5 +8,7 @@
 - 💬 Ask me about react, javascript and php
 - 📫 How to reach me duybao18112000@gmail.com
 
+### Connect with me:
 
+### Languages and Tools:
 [linkedin]: https://www.linkedin.com/in/duy-b%E1%BA%A3o-9211a8216/
