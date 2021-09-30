@@ -7,7 +7,7 @@
 - 😄 I like learning about computer and research new teachology.
 - 💬 Ask me about react, javascript and php
 - 📫 How to reach me duybao18112000@gmail.com
-
+- :relaxed: I love watching movie in free time
 ### Connect with me:
 [<img align="left" alt="linkedin" width="22px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" />][linkedin]
 
