@@ -13,6 +13,8 @@
 
 [<img align="left" alt="facebook" width="22px" src="https://www.facebook.com/images/fb_icon_325x325.png" />][facebook]
 
+[<img align="left" alt="gmail" width="22px" src="https://phuothanoi.com/wp-content/uploads/2020/12/l%E1%BB%97i-%C4%91%E1%BB%93ng-b%E1%BB%99-h%C3%B3a-gmail.png" />][gmail]
+
 <br />
 
 ### Languages and Tools:
@@ -36,3 +38,4 @@
 
 [linkedin]: https://www.linkedin.com/in/duy-b%E1%BA%A3o-9211a8216/
 [facebook]: https://www.facebook.com/profile.php?id=100022065936430
+[gmail]: https://mail.google.com/mail/u/1/#inbox
