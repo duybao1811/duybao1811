@@ -16,7 +16,7 @@
 <br />
 
 ### Languages and Tools:
-<p>
+<p display="flex">
 <img align="left" alt="c++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/150px-ISO_C%2B%2B_Logo.svg.png" />
 
 <img align="left" alt="c#" width="30px" src="https://cdn.blob.lionpham.com/uploads/2016/08/c-Sharp.png" />
