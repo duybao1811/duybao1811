@@ -8,6 +8,7 @@
 - 💬 Ask me about react, javascript and php
 - :relaxed: I love watching movie in free time
 - 📫 How to reach me duybao18112000@gmail.com
+
 <br/>
 ---
 
@@ -15,6 +16,7 @@
 [<img align="left" alt="linkedin" width="22px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" />][linkedin]
 
 [<img align="left" alt="facebook" width="22px" src="https://www.facebook.com/images/fb_icon_325x325.png" />][facebook]
+
 <br/>
 ---
 
