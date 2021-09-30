@@ -25,6 +25,8 @@
 
 <img align="left" alt="css" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
 
+<img align="left" alt="bootstrap" width="30px" src="https://getbootstrap.com/docs/4.6/assets/brand/bootstrap-social-logo.png" />
+
 <img align="left" alt="sass" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" />
 
 <img align="left" alt="javascript" width="30px" src="https://techvccloud.mediacdn.vn/2018/11/23/js-15429579443112042672363-crop-1542957949936317424252.png" />
@@ -35,7 +37,6 @@
 
 <img align="left" alt="laravel" width="30px" src="https://cms-assets.tutsplus.com/uploads/users/769/posts/25334/preview_image/get-started-with-laravel-6-400x277.png" />
 
-<img align="left" alt="mysql" width="30px" src="https://techvccloud.mediacdn.vn/2020/9/17/mysql-1-1600340047538868003500-crop-160034079526453914971.png" />
 
 <br />
 <br />
