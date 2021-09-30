@@ -16,7 +16,7 @@
 
 [<img align="left" alt="facebook" width="22px" src="https://www.facebook.com/images/fb_icon_325x325.png" />][facebook]
 
-[<img align="left" alt="instagram" width="22px" src="https://www.pxpng.com/public/uploads/preview/-11608566304fguhnkxstk.png" />][instagram]
+[<img align="left" alt="instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 
 <br/>
 
