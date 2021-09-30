@@ -37,6 +37,8 @@
 <img align="left" alt="mysql" width="30px" src="https://techvccloud.mediacdn.vn/2020/9/17/mysql-1-1600340047538868003500-crop-160034079526453914971.png" />
 
 
+<br />
+
 * Front-end: HTML,CSS,Bootstrap,SASS,Javascript,Reactjs
 * Back-end: PHP, Laravel,Nodejs
 * Database: SqlServer, MySql, Postgresql,MongoDB
