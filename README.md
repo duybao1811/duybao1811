@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Duy Bao
 
 
-### :fire: About me:
+### :fire:About me:
 
 - 🌱 I’m currently learning Software Engineering at University of Information Technology
 - 😄 I like learning about software and research new teachology.
@@ -13,7 +13,7 @@
 
 ---
 
-### :fire: Connect with me:
+### :fire:Connect with me:
 [<img align="left" alt="linkedin" width="22px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" />][linkedin]
 
 [<img align="left" alt="facebook" width="22px" src="https://www.facebook.com/images/fb_icon_325x325.png" />][facebook]
@@ -22,7 +22,7 @@
 
 ---
 
-### :fire: Languages and Tools:
+### :fire:Languages and Tools:
 <p>
 <img align="left" alt="c++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/150px-ISO_C%2B%2B_Logo.svg.png" />
 
