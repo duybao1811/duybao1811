@@ -1,5 +1,8 @@
 ### Hi there 👋, I'm Duy Bao
 
+<br/>
+
+---
 
 ### :fire: About me:
 
