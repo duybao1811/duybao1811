@@ -12,8 +12,8 @@
 
 ### Languages and Tools:
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/150px-ISO_C%2B%2B_Logo.svg.png" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/150px-ISO_C%2B%2B_Logo.svg.png" width="50" title="hover text">
+ 
 </p>
 
 [linkedin]: https://www.linkedin.com/in/duy-b%E1%BA%A3o-9211a8216/
