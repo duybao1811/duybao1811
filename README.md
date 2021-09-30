@@ -16,7 +16,7 @@
 <br />
 
 ### Languages and Tools:
-
+<p>
 <img align="left" alt="c++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/150px-ISO_C%2B%2B_Logo.svg.png" />
 
 <img align="left" alt="c#" width="30px" src="https://cdn.blob.lionpham.com/uploads/2016/08/c-Sharp.png" />
@@ -36,7 +36,7 @@
 <img align="left" alt="php" width="30px" src="https://upload.wikimedia.org/wikipedia/vi/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" />
 
 <img align="left" alt="laravel" width="30px" src="https://cms-assets.tutsplus.com/uploads/users/769/posts/25334/preview_image/get-started-with-laravel-6-400x277.png" />
-
+</p>
 
 <br />
 <br />
