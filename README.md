@@ -29,7 +29,7 @@
 
 <img align="left" alt="sass" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" />
 
-<img align="left" alt="javascript" width="30px" src="https://techvccloud.mediacdn.vn/2018/11/23/js-15429579443112042672363-crop-1542957949936317424252.png" />
+<img align="left" alt="javascript" width="30px" src="https://www.clipartmax.com/png/middle/470-4707396_javascript-icon-html-css-js-icons.png" />
 
 <img align="left" alt="reactjs" width="30px" src="https://codelearn.io/Upload/Blog/react-js-co-ban-phan-1-63738082145.3856.jpg" />
 
