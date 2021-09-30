@@ -9,7 +9,7 @@
 - 📫 How to reach me duybao18112000@gmail.com
 
 ### Connect with me:
-
+[<img align="left" alt="lindedin" width:"22px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" />][linkedin]
 ### Languages and Tools:
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/150px-ISO_C%2B%2B_Logo.svg.png" width="50" title="c++">
@@ -24,8 +24,6 @@
    <img src="https://techvccloud.mediacdn.vn/2020/9/17/mysql-1-1600340047538868003500-crop-160034079526453914971.png" width="50" title="mysql">
 </p>
 
-![foo](https://techvccloud.mediacdn.vn/2020/9/17/mysql-1-1600340047538868003500-crop-160034079526453914971.png "title")
-![](https://techvccloud.mediacdn.vn/2020/9/17/mysql-1-1600340047538868003500-crop-160034079526453914971.png) (&lt;img /&gt;)
 * Front-end: HTML,CSS,Bootstrap,SASS,Javascript,Reactjs
 * Back-end: PHP, Laravel,Nodejs
 * Database: SqlServer, MySql, Postgresql,MongoDB
