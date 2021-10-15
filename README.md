@@ -3,7 +3,7 @@
 ### :fire: About me:
 
 - 🌱 I’m currently learning Software Engineering at University of Information Technology
-- 😄 I like learning about software and research new teachology.
+- 😄 I like learning about software and research new techology.
 - 💬 Ask me about react, javascript and php
 - :relaxed: I love watching movie in free time
 - 📫 How to reach me duybao18112000@gmail.com
