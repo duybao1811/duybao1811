@@ -52,7 +52,7 @@
 * **Front-end**: `HTML` `CSS` `Bootstrap` `SASS` `Javascript` `Reactjs`
 * **Back-end**: `PHP` `Laravel` `Nodejs`
 * **Database**: `SqlServer` `MySql` `Postgresql` `MongoDB`
-* **Others**: `Firebase` `Git` `Docker`
+* **Others**: `Firebase` `Git` `Docker` `Gitlab`
 
 [linkedin]: https://www.linkedin.com/in/duy-b%E1%BA%A3o-9211a8216/
 [facebook]: https://www.facebook.com/profile.php?id=100022065936430
