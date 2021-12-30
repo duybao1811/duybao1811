@@ -40,9 +40,6 @@
 
 <img align="left" alt="reactjs" width="30px" src="https://img.favpng.com/4/1/17/react-javascript-vue-js-logo-png-favpng-T97hHj5T2UsnURsbZ0PB5Mi3c.jpg" />
 
-<img align="left" alt="php" width="30px" src="https://upload.wikimedia.org/wikipedia/vi/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" />
-
-<img align="left" alt="laravel" width="30px" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" />
 </p>
 
 <br />
