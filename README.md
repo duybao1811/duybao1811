@@ -36,7 +36,7 @@
 
 <img align="left" alt="sass" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" />
 
-<img align="left" alt="javascript" width="30px" src="https://img.favpng.com/2/12/22/javascript-icon-png-favpng-ruDBDhxzVxWHgXXtH2Hi1XzJf.jpg" />
+<img align="left" alt="javascript" width="30px" src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo.png" />
 
 <img align="left" alt="reactjs" width="30px" src="https://img.favpng.com/4/1/17/react-javascript-vue-js-logo-png-favpng-T97hHj5T2UsnURsbZ0PB5Mi3c.jpg" />
 
