@@ -38,7 +38,7 @@
 
 <img align="left" alt="javascript" width="30px" src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo.png" />
 
-<img align="left" alt="reactjs" width="30px" src="https://img.favpng.com/4/1/17/react-javascript-vue-js-logo-png-favpng-T97hHj5T2UsnURsbZ0PB5Mi3c.jpg" />
+<img align="left" alt="reactjs" width="30px" src="https://icon2.cleanpng.com/20180507/adw/kisspng-react-javascript-library-github-backbone-5af0ed69511ed1.9555634015257388573323.jpg" />
 
 </p>
 
