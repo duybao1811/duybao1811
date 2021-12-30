@@ -38,7 +38,7 @@
 
 <img align="left" alt="javascript" width="30px" src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo.png" />
 
-<img align="left" alt="reactjs" width="30px" src="https://icon2.cleanpng.com/20180507/adw/kisspng-react-javascript-library-github-backbone-5af0ed69511ed1.9555634015257388573323.jpg" />
+<img align="left" alt="reactjs" width="30px" src="https://www.pngfind.com/pngs/m/685-6854994_react-logo-no-background-hd-png-download.png" />
 
 </p>
 
