@@ -46,7 +46,7 @@
 <br />
 <br />
 
-* **Front-end**: `HTML` `CSS` `Bootstrap` `TailWind` `SASS` `Javascript` `Reactjs` 
+* **Front-end**: `HTML` `CSS` `Bootstrap` `TailWind` `SASS` `Javascript` `Reactjs` `NextJs` `TypeScript`
 * **Back-end**: `Nodejs`
 * **Database**: `SqlServer` `MySql` `Postgresql` `MongoDB`
 * **Others**: `Firebase` `Git` `Docker` `Gitlab`
