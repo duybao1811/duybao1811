@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Software Engineering at University of Information Technology
 - 😄 I like learning about software and research new techology.
-- 💬 Ask me about react, javascript and php
+- 💬 Ask me about front-end, react, javascript
 - :relaxed: I love watching movie in free time
 - 📫 How to reach me duybao18112000@gmail.com
 <br/>
@@ -47,7 +47,7 @@
 <br />
 
 * **Front-end**: `HTML` `CSS` `Bootstrap` `SASS` `Javascript` `Reactjs`
-* **Back-end**: `PHP` `Laravel` `Nodejs`
+* **Back-end**: `Nodejs`
 * **Database**: `SqlServer` `MySql` `Postgresql` `MongoDB`
 * **Others**: `Firebase` `Git` `Docker` `Gitlab`
 
