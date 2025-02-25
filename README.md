@@ -14,10 +14,6 @@
 ### :fire: Connect with me:
 [<img align="left" alt="linkedin" width="22px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" />][linkedin]
 
-[<img align="left" alt="facebook" width="22px" src="https://www.facebook.com/images/fb_icon_325x325.png" />][facebook]
-
-[<img align="left" alt="instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
-
 <br/>
 
 ---
