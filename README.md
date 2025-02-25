@@ -20,7 +20,7 @@
 
 ### :fire: Languages and Tools:
 <p>
-<img align="left" alt="nextjs" width="30px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
+<img align="left" alt="nextjs" width="30px" src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" />
   
 <img align="left" alt="reactjs" width="30px" src="https://www.pngfind.com/pngs/m/685-6854994_react-logo-no-background-hd-png-download.png" />
 
