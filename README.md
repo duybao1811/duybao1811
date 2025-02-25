@@ -2,11 +2,11 @@
 
 ### :fire: About me:
 
-- 🌱 I’m currently learning Software Engineering at University of Information Technology
-- 😄 I like learning about software and research new techology.
-- 💬 Ask me about front-end, react, javascript
-- :relaxed: I love watching movie in free time
-- 📫 How to reach me duybao18112000@gmail.com
+- 🎓 Graduated in Software Engineering from the University of Information Technology.
+- 😄 Passionate about exploring new software technologies and researching innovative tech trends.
+- 💬 Ask me about front-end development, React.js, Next.js and JavaScript.
+- :relaxed: I enjoy watching movies in my free time.
+- 📫 Reach me at duybao18112000@gmail.com
 <br/>
 
 ---
@@ -20,7 +20,7 @@
 
 ### :fire: Languages and Tools:
 <p>
-<img align="left" alt="c++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/150px-ISO_C%2B%2B_Logo.svg.png" />
+<img align="left" alt="nextjs" width="30px" src="https://images.seeklogo.com/logo-png/44/2/next-js-logo-png_seeklogo-449824.png" />
 
 <img align="left" alt="c#" width="30px" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" />
 
