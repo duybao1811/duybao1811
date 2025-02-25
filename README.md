@@ -47,7 +47,7 @@
 <br />
 
 * **Front-end**: `HTML` `CSS` `Bootstrap` `TailWind` `SASS` `Javascript` `Reactjs` `NextJs` `TypeScript` `React Native`
-* **Back-end**: `Nodejs` `Redis` `Rabbitmq`
+* **Back-end**: `Nodejs` `Nestjs` `Redis` `Rabbitmq`
 * **Database**: `SqlServer` `MySql` `Postgresql` `MongoDB`
 * **Others**: `Firebase` `Git` `Docker` `Gitlab`
 
