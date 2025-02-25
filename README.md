@@ -20,9 +20,9 @@
 
 ### :fire: Languages and Tools:
 <p>
-<img align="left" alt="nextjs" width="30px" src="https://images.seeklogo.com/logo-png/44/2/next-js-logo-png_seeklogo-449824.png" />
-
-<img align="left" alt="c#" width="30px" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" />
+<img align="left" alt="nextjs" width="30px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
+  
+<img align="left" alt="reactjs" width="30px" src="https://www.pngfind.com/pngs/m/685-6854994_react-logo-no-background-hd-png-download.png" />
 
 <img align="left" alt="html" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/1200px-HTML5_logo_resized.svg.png" />
 
@@ -33,8 +33,6 @@
 <img align="left" alt="sass" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" />
 
 <img align="left" alt="javascript" width="30px" src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo.png" />
-
-<img align="left" alt="reactjs" width="30px" src="https://www.pngfind.com/pngs/m/685-6854994_react-logo-no-background-hd-png-download.png" />
 
 </p>
 
