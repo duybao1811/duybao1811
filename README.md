@@ -8,9 +8,12 @@
 - :relaxed: I enjoy watching movies in my free time.
 <br/>
 
+---
+
 ### :fire: What I Do:
 - Front-end development with React, Next.js, Tailwind, and TypeScript. 
 - Mobile app development with React Native
+- 
 ---
 
 ### :fire: Connect with me:
