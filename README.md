@@ -3,16 +3,19 @@
 ### :fire: About me:
 
 - 🎓 Graduated in Software Engineering from the University of Information Technology.
-- 😄 Passionate about exploring new software technologies and researching innovative tech trends.
-- 💬 Ask me about front-end development, React.js, Next.js and JavaScript.
+- 😄 Passionate about exploring new software technologies and building dynamic user experiences.
+- 💬 Skilled in React, Next.js, JavaScript, TypeScript, Node.js, Docker, and more.
 - :relaxed: I enjoy watching movies in my free time.
-- 📫 Reach me at duybao18112000@gmail.com
 <br/>
 
+### :fire: What I Do:
+- Front-end development with React, Next.js, Tailwind, and TypeScript. 
+- Mobile app development with React Native
 ---
 
 ### :fire: Connect with me:
-[<img align="left" alt="linkedin" width="22px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" />][linkedin]
+- Feel free to reach out at **duybao18112000@gmail.com** for collaboration, questions, or just to say hi!
+- You can also connect with me on my [linkedin](#) or follow my work here on GitHub.
 
 <br/>
 
