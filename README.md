@@ -15,7 +15,7 @@
 
 ### :fire: Connect with me:
 - Feel free to reach out at **duybao18112000@gmail.com** for collaboration, questions, or just to say hi!
-- You can also connect with me on my [linkedin](#) or follow my work here on GitHub.
+- You can also connect with me on my [linkedin] or follow my work here on GitHub.
 
 <br/>
 
