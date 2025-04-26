@@ -37,7 +37,7 @@
 
 **Technologies:**
 
-* **Front-end**: `HTML`, `CSS`, `Bootstrap`, `Tailwind`, `SASS`, `JavaScript`, `ReactJS`, `NextJS`, `TypeScript`, `React Native`
+* **Front-end**: `HTML`, `CSS`, `Bootstrap`,  `Ant design`, `Material UI`, `Tailwind`, `SASS`, `JavaScript`, `ReactJS`, `NextJS`, `TypeScript`, `React Native`
 * **Back-end**: `NodeJS`, `NestJS`, `Redis`, `RabbitMQ`
 * **Database**: `SQL Server`, `MySQL`, `PostgreSQL`, `MongoDB`
 * **Other**: `Firebase`, `Git`, `Docker`, `GitLab`
