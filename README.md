@@ -3,13 +3,13 @@
 #### :fire: About Me:
 - 🎓 **Graduated in Software Engineering** from the University of Information Technology.
 - 😄 **Passionate about exploring new software technologies** and building dynamic user experiences.
-- 💬 Skilled in **React**, **Next.js**, **JavaScript**, **TypeScript**, **Node.js**, **Docker**, and more.
+- 💬 Skilled in **React.js**, **Next.js**, **JavaScript**, **TypeScript**, **Node.js**, **Docker**, and more.
 - :relaxed: **I enjoy learning new technologies, algorithms, and playing sports** to continuously improve myself.
 
 ---
 
 #### :fire: What I Do:
-- **Front-end development** with **React**, **Next.js**, **Tailwind**, and **TypeScript**.
+- **Front-end development** with **React.js**, **Next.js**, **Tailwind**, and **TypeScript**.
 - **Mobile app development** with **React Native**.
 
 ---
