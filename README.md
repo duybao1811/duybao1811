@@ -4,7 +4,7 @@
 - 🎓 **Graduated in Software Engineering** from the University of Information Technology.
 - 😄 **Passionate about exploring new software technologies** and building dynamic user experiences.
 - 💬 Skilled in **React**, **Next.js**, **JavaScript**, **TypeScript**, **Node.js**, **Docker**, and more.
-- :relaxed: In my free time, I enjoy **watching movies** and exploring new technologies.
+- :relaxed: **I enjoy learning new technologies, algorithms, and playing sports** to continuously improve myself.
 
 ---
 
